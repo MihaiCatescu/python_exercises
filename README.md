@@ -1,5 +1,4 @@
 # python_exercises
-Multiple Python Exercises
 The exercises in the repository are as follows:
  1. Exercise 1 - Turning 100
  2. Exercise 2 - Odd or Even
