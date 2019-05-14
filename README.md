@@ -24,3 +24,4 @@ The exercises in the repository are as follows:
  22. Exercise 22 - Series SUM - Unfinished
  23. Exercise 23 - Get Century
  24. Exercise 24 - Palindrome Check
+ 25. Exercise 25 - Mask the string
