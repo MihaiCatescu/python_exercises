@@ -25,3 +25,4 @@ The exercises in the repository are as follows:
  23. Exercise 23 - Get Century
  24. Exercise 24 - Palindrome Check
  25. Exercise 25 - Mask the string
+ 26. Exercise 26 - Go for a walk
