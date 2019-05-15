@@ -26,3 +26,4 @@ The exercises in the repository are as follows:
  24. Exercise 24 - Palindrome Check
  25. Exercise 25 - Mask the string
  26. Exercise 26 - Go for a walk
+ 27. Exercise 27 - Which are in
