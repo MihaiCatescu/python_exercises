@@ -17,7 +17,7 @@ The exercises in the repository are as follows:
  15. Exercise 15 - Password Generator
  16. Exercise 16 - Element Search
  17. Exercise 17 - Write To A File
- 18. Exercise 18 - Read From File - Unfinished
+ 18. Exercise 18 - Read From File
  19. Exercise 19 - Duplicate Encode
  20. Exercise 20 - Return middle character
  21. Exercise 21 - DNA Strand
