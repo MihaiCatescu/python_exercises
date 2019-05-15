@@ -27,3 +27,4 @@ The exercises in the repository are as follows:
  25. Exercise 25 - Mask the string
  26. Exercise 26 - Go for a walk
  27. Exercise 27 - Which are in
+ 28. Exercise 28 - Money, Money, Money
