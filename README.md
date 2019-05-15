@@ -21,7 +21,7 @@ The exercises in the repository are as follows:
  19. Exercise 19 - Duplicate Encode
  20. Exercise 20 - Return middle character
  21. Exercise 21 - DNA Strand
- 22. Exercise 22 - Series SUM - Unfinished
+ 22. Exercise 22 - Series SUM
  23. Exercise 23 - Get Century
  24. Exercise 24 - Palindrome Check
  25. Exercise 25 - Mask the string
