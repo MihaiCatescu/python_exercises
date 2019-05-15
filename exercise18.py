@@ -3,11 +3,17 @@ Given a .txt file that has a list of a bunch of names, count how many of each na
 and print out the results to the screen.
 '''
 
-with open('names.txt', 'r') as open_file:
-    line = open_file.readline()
-    while line:
-        print(line)
-        line = open_file.readline()
+counter_dict = {}
 
-for elem in line:
-    if elem == 0:
+with open('names.txt') as f:
+    line = f.readline()
+    while line:
+        line = line.strip()
+        if line in counter_dict:
+            counter_dict[line] += 1
+        else:
+            counter_dict[line] = 1
+        line = f.readline()
+
+
+print(counter_dict)
