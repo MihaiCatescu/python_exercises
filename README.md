@@ -28,3 +28,4 @@ The exercises in the repository are as follows:
  26. Exercise 26 - Go for a walk
  27. Exercise 27 - Which are in
  28. Exercise 28 - Money, Money, Money
+ 29. Exercise 29 - Is this a triangle?
