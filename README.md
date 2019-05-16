@@ -33,3 +33,5 @@ The exercises in the repository are as follows:
  31. Exercise 31 - Total lowercase/uppercase letters in a string
  32. Exercise 32 - Super Size Number
  33. Exercise 33 - Simple validation of a username with RegEx
+ 34. Exercise 34 - Double Char
+ 35. Exercise 35 - Count by X (Multiples)
