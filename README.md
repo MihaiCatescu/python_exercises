@@ -32,3 +32,4 @@ The exercises in the repository are as follows:
  30. Exercise 30 - Highest Scoring Word
  31. Exercise 31 - Total lowercase/uppercase letters in a string
  32. Exercise 32 - Super Size Number
+ 33. Exercise 33 - Simple validation of a username with RegEx
