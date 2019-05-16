@@ -29,3 +29,5 @@ The exercises in the repository are as follows:
  27. Exercise 27 - Which are in
  28. Exercise 28 - Money, Money, Money
  29. Exercise 29 - Is this a triangle?
+ 30. Exercise 30 - Highest Scoring Word
+ 31. Exercise 31 - Total lowercase/uppercase letters in a string
